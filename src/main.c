@@ -1,5 +1,5 @@
 #include <pebble.h>
-#include "arrow_layer.h"
+#include "libraries/arrow_layer.h"
 
 static Window *s_window;
 static ArrowLayer *s_compass_arrow_layer;
