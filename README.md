@@ -5,6 +5,7 @@ This repo also contains a project that demonstrates the library by drawing two a
 
 ##Use:
 Add the `arrow_layer.h` and `arrow_layer.c` files to your project
+
 Include the header in your source (`#include "arrow_layer.c"`)
 
 ##Declare:
