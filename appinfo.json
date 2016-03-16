@@ -1,0 +1,34 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "grobinson.me",
+    "enableMultiJS": true,
+    "longName": "Arrow Library",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Arrow.png",
+                "memoryFormat": "1Bit",
+                "menuIcon": true,
+                "name": "MENU_ICON",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Arrow Library",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "5b2e5cfc-213f-4a36-bb67-cd88d2938bd8",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
